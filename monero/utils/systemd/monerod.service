@@ -1,0 +1,20 @@
+[Unit]
+Description=Ltanmu Full Node
+After=network.target
+
+[Service]
+User=ltanmu
+Group=ltanmu
+WorkingDirectory=~
+StateDirectory=ltanmu
+LogsDirectory=ltanmu
+
+Type=simple
+ExecStart=/usr/bin/monerod --config-file /etc/monerod.conf --non-interactive
+StandardOutput=null
+StandardError=null
+
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

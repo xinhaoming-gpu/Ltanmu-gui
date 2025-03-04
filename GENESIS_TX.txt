@@ -1,0 +1,16 @@
+卖 簧 折 薄 门 前 司 徒 布 夏 荒 足 香 空 晓 圈 监 恨 姓 察 仿 位 增 每 折
+
+
+
+[wallet 9bBAND (no daemon)]: address
+0  9bBANDuVP4CKNh5hhcAoFgZApU6NJkS5z13oyZw81utWPfFi8UxSc5M1mE5JFSHMzaV1Tdtip8ZghaeueCJFMyJh4oQfMfH  Primary address
+[wallet 9bBAND (no daemon)]: viewkey
+secret: c8abeb39d92a2a5216220bc3ae2fef6da4e18792c71e0968b72b42f5e6b29101
+public: 78fa30a8856d60048f09173a2ce4eba772ca65aad1c3e6c9339c6a875938c221
+[wallet 9bBAND (no daemon)]: spendkey
+secret: 80c658ab2675aee85995dc6b2c4eb96d4fffb5b194adb34a94de846999eec806
+public: 5a04d6729ce8b16dd9d2ad69d68b63c053dbf772d1464d004a262c51fcb82b87
+
+
+私钥 r: 8b0838c5c7c4ecab61c87df03699535a5da539aedffba32803a0238adeb8a58c
+Transaction Public Key (Tx PubKey): 6e5b05486b8237c2722b9db68909e4b0c283f1c031d657eaf92a4a95bac68d54
